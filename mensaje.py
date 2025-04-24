@@ -13,11 +13,11 @@ paginas = [
     
     "🎶 Ve con toda, amor. Sé que te va a ir genial, porque te preparaste, porque eres inteligente y porque puedes con todo. Yo creo en ti con todo mi corazón.",
 
-    "💪 Si en algún momento sientes duda, respira profundo y recuerda lo fuerte y capaz que eres. Tienes todo para brillar y triunfar, mi amor.",
+    "💪 Si en algún momento sientes duda, respira profundo y recuerda lo fuerte y capaz que eres. Tienes todo para brillar y triunfar amor.",
 
-    "✨ Así que sonríe, confía en ti, y da lo mejor. Estoy aquí, mandándote todo mi amor y abrazos en pensamiento. ¡Tú puedes, mi reina! 💖",
+    "✨ Así que sonríe, confía en ti, y da lo mejor. Estoy aquí, mandándote todo mi amor y abrazos en pensamiento. ¡Tú puedes mi niña hermosa! 💖",
 
-    "🌈 Eres la personita más hermosa, fuerte y brillante que conozco. No hay reto que pueda contigo, mi amor, porque tu corazón y tu mente son gigantes.",
+    "🌈 Eres la mujer más hermosa, fuerte y brillante que conozco. No hay reto que pueda contigo amor, porque tu corazón y tu mente son gigantes.",
 
     "💖 Te amo con todo lo que soy, y estaré aquí celebrando contigo, sabiendo que vas a salir de ese parcial con la frente en alto y una sonrisa de orgullo."
 ]
